@@ -1,0 +1,30 @@
+{
+  "name": "@ms/eslint-config-ms",
+  "version": "0.1.0",
+  "description": "A customized code style config for eslint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "find-rules": "eslint-find-rules"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "license": "MIT",
+  "files": [
+    "rules",
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-find-rules": "^3.1.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
