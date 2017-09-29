@@ -1,5 +1,5 @@
 {
-  "name": "@ms/eslint-config-ms",
+  "name": "eslint-config-ms",
   "version": "0.1.0",
   "description": "A customized code style config for eslint.",
   "main": "index.js",
