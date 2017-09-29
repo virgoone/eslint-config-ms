@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A customized code style config for eslint.",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,14 @@
     "eslint-find-rules": "^3.1.1",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-react": "^7.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgoone/eslint-config-ms.git"
+  },
+  "author": "virgo",
+  "bugs": {
+    "url": "https://github.com/virgoone/eslint-config-ms/issues"
+  },
+  "homepage": "https://github.com/virgoone/eslint-config-ms#readme"
 }
